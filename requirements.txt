@@ -1,0 +1,4 @@
+langchain
+langchain-nvidia-ai-endpoints
+python-dotenv
+pydantic
