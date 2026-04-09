@@ -60,7 +60,7 @@ structured-output-llm/
 ## Setup & Installation
 
 1. Clone the repository:
-git clone https://github.com/your-username/structured-output-llm.git
+git clone https://github.com/VISHWAS-dto/structured-output-llm
 cd structured-output-llm
 
 2. Install dependencies:
